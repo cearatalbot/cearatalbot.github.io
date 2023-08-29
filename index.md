@@ -2,23 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my website! I'm a postdoctoral fellow at the Carnegie Institution for 
+Science who focuses on carbon cycling across terrestrial and aquatic ecosystems. I 'm 
+particularly interested in integrated assessments of landscape-level carbon cycling, the 
+role of hydrology and lateral transport, and the relative contributions of terrestrial 
+and aquatic ecosystems to land-atmosphere feedbacks. I primarily leverage large data 
+sets and develop process models to address these topics. 
 
-[Link to another page](./another-page.html).
+# Terrestrial-Aquatic Carbon and Hydrology process model (TAM)
 
-There should be whitespace between paragraphs.
+I led the development of TAM, a model aimed at simulating temporally and 
+spatially consistent terrestrial and aquatic carbon and water budgets at continental 
+scales (i.e., the scale that land surface models operate at). The model has undergone 
+substantial development since it was first published in 2020. Updated model versions 
+should appear in journal publications in 2024. In the meantime, find conference abstracts related to this work on my google Scholar page. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Flooding, aquatic ecosystems, & society
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
