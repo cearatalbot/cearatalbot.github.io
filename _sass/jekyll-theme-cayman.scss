@@ -106,8 +106,9 @@ a {
 }
 
 .page-header {
+  color: $header-heading-color;
   text-align: center;
-  background-size: contain;
+  background-size: cover;
   background-image: url('/../Background.jpeg');
 
   @include large {
